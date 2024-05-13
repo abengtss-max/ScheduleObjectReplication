@@ -124,7 +124,7 @@ Set-AzStorageObjectReplicationPolicy -ResourceGroupName $srcResourceGroupName -A
 
 Write-Output "Object replication policy rule applied"
 
-# Wait for 3 minute
+# Wait for 20 minute
 Start-Sleep -Seconds 1200
 
 #Get Object Replication Policy ID
