@@ -4,8 +4,9 @@ This tutorial will guide you through the process of setting up an Azure Automati
 
 ## Prerequisites
 
-- An Azure account with an active subscription.
+- Active subscription.
 - Two Azure Storage accounts.
+- Contributor permissions.
 
 ## Introduction
 
