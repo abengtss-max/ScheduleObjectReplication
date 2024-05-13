@@ -147,4 +147,8 @@ Write-Output "Object replication policy rule deleted"
 4. Click **OK** to link the schedule to your runbook.
 
 Now, your runbook will automatically run according to the schedule, replicating objects between your two storage accounts.
-## 
+
+## Disclaimer
+
+The code contained within this repository is provided as-is and without any warranty. While every effort has been made to ensure its correctness, efficiency, or suitability for specific purposes, users are advised to thoroughly review and test the code before implementation. The author shall not be held liable for any consequences resulting from the use of this code.
+
